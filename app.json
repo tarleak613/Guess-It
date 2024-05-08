@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Guess It",
-    "slug": "Guess It",
+    "slug": "guess-it",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.tarleak.guessit"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "572743a3-dee9-483f-8b9b-d5bf9424ebd1"
+      }
     }
   }
 }
