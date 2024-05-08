@@ -1,8 +1,8 @@
 This is a react-native application using EXPO
 
 Lets break it into two sections:
-
 1. UI was created using figma
+
    <img width="554" alt="image" src="https://github.com/tarleak613/Guess-It/assets/134609299/cc7b1f9b-b74f-41cf-9b55-2f2ad88a7f2c">
 
 2. The actual implmentation was done via React-native Expo
